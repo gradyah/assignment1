@@ -1,0 +1,86 @@
+@charset "utf-8";
+	/* CSS Document */
+
+#ContentBackground {
+	width: 1000px;
+	height: 1100px;
+	padding: 0px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	background-color: #666;
+	opacity: 0.9;
+}
+#Container1{
+	width: 400px;
+	height: 312px;
+	padding: 0px;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: 50px;
+	}
+#Container2{
+	margin: 10px;
+	float: left;
+	}
+	
+html,body {
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	margin: 0 auto;
+	background-image: url(../Image/sand.jpg);
+}
+
+body {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 14px;
+	color: #0FF;
+}
+
+h1 {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 24px;
+	color: #9FF;
+}
+h2{
+	font-family: "Comic Sans MS", cursive;
+	font-size: 36px;
+	color: #F00;
+	text-decoration: underline;
+	text-align: center;
+	font-style: italic;
+	background-color: #333;	
+	opacity: 0.8;
+	}
+h3 {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 24px;
+	color: #D6D6D6;
+	text-decoration: blink;
+	text-align: center;
+}
+
+#BODY {
+	margin: 50px;
+	position: absolute;
+	height: 800px;
+	width: 900px;
+}
+#NavigationBar{
+	margin: 25px;
+	position: absolute;
+	}
+#Footer {
+	height: 50px;
+	width: 1000px;
+	margin-top: 1000px;
+	margin-right: 50px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	text-align: center;
+	background-color: #333;
+	opacity: 0.8;
+}

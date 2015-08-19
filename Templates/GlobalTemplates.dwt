@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- TemplateBeginEditable name="EditRegion2" --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Diggers Beach Volleyball</title>
+<script src="../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<script src="../SpryAssets/SpryValidationSelect.js" type="text/javascript"></script>
+<script src="../SpryAssets/SpryValidationCheckbox.js" type="text/javascript"></script>
+<link href="../SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" />
+<link href="../Style/pageStyle.css" rel="stylesheet" type="text/css" />
+</head><!-- TemplateEndEditable -->
+
+
+<body >
+<div id="ContentBackground">
+<h2><a href="../index.html">DIGGERS BEACH VOLLEYBALL </a></h2>
+<div id="NavigationBar">
+<ul id="MenuBar1" class="MenuBarHorizontal">
+  <li>
+    <div align="center"><a href="../index.html">Home</a></div>
+  </li>
+  <li>
+    <div align="center"><a href="../info.html">Information</a></div>
+  </li>
+  <li>
+    <div align="center"><a href="../leaderBoard.html">Leader Board</a></div>
+  </li>
+  <li>
+    <div align="center"><a href="../signUp.html">Sign-Up</a></div>
+  </li>
+</ul>
+</div>
+
+<div id="BODY">
+<!-- TemplateBeginEditable name="Body" -->Body<!-- TemplateEndEditable -->
+</div>
+
+<div id="Footer">
+<p>Phone/Fax : 07-4774 1235 | E-mail : Diggers@ gmail.com | Address : 14 Beach Avenue, Marakson</p>
+</div>
+
+
+<script type="text/javascript">
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"../SpryAssets/SpryMenuBarDownHover.gif", imgRight:"../SpryAssets/SpryMenuBarRightHover.gif"});
+</script>
+</div>
+<script type="text/javascript">
+</script>
+</body>
+</html>
